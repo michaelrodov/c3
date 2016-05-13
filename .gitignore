@@ -9,4 +9,4 @@ build
 
 # coverage report
 /coverage
-.idea/*
+.idea/
